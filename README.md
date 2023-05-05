@@ -1,2 +1,2 @@
-# stunning-train
+# stunning
 (optional)
